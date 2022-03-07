@@ -1,7 +1,6 @@
 # Hi! I'm Francis Verissimo 👋
 #### Full-Stack Web Developer
-#
-### Passionate about web development
+### Passionate about web development, pop culture, music, draw
 ### Currently studying React
 #
 
