@@ -1,4 +1,9 @@
-### Olá! Eu sou o Francis Verissimo 👋
+# Hi! I'm Francis Verissimo 👋
+#### Full-Stack Web Developer
+#
+### Passionate about web development
+### Currently studying React
+#
 
 <div>
   <a href="https://github.com/francissverissimo">
@@ -15,8 +20,8 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS-Icon" height="30" width="30" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Vue-Icon" height="30" width="30" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="React-Icon" height="30" width="30" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Flutter-Icon" height="30" width="30" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 </div>
