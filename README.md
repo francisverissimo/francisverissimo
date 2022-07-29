@@ -1,32 +1,26 @@
-# Hi! I'm Francis Verissimo 👋
-#### Front-End Web Developer
-### Passionate about web development, pop culture, music, draw
-### Currently studying React
-#
+## Hi! I'm Francis Verissimo 👋
+I'm Front-End Web Developer, passionate about technology, pop culture, animes, music, draw
 
-<div>
-  <a href="https://github.com/francissverissimo">
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api?username=francissverissimo&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=francissverissimo&layout=compact&langs_count=7&theme=monokai"/>
+### Tools I use
+<div display="flex">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50px"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50px" />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML-Icon" height="30" width="30" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
-  <img align="center" alt="CSS-Icon" height="30" width="30" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS-Icon" height="30" width="30" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="React-Icon" height="30" width="30" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Flutter-Icon" height="30" width="30" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-</div>
+<br />
 
-###
+Front-end Web with React<br />
+Front-end Mobile with React Native<br />
+Back-end with Node.js<br />
+Typescript<br />
+TailwindCSS<br />
+Firebase<br />
+And a little more...
 
+### Meet me somewhere else
 <div>
   <a href="mailto:francissv97@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
