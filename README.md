@@ -1,29 +1,42 @@
-## Hi! I'm Francis Verissimo 👋
-I'm Front-End Web Developer, passionate about technology, pop culture, animes, music, draw
+# Olá, sou o Francis Verissimo 👋
 
-### Tools I use
-<div display="flex">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50px"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" />
+### Desenvolvedor Full Stack | Foco em Front-End | 💙 TypeScript
+
+🔧 **Tecnologias que uso no meu dia a dia**:
+
+- **Front-End**: React, Tailwind CSS
+- **Back-End**: Node.js, Express
+- **Banco de Dados**: Firestore
+- **Ferramentas**: Git, Docker
+- **Outras**: TypeScript, GraphQL, JavaScript
+
+<div style="display:flex;gap:8px;margin-block: 16px">
+  <img src=".github/react.svg" width="32" />
+  <img src=".github/typescript.svg" width="32" />
+  <img src=".github/tailwindcss.svg" width="32"  />
+  <img src=".github/git.svg" width="32" />
+  <img src=".github/graphql.svg" width="32" />
+  <img src=".github/nodejs.svg" width="32" />
+  <img src=".github/firebase.svg" width="32" />
+  <img src=".github/docker.svg" width="32" />
 </div>
 
-<br />
+---
 
-Front-end Web with React<br />
-Front-end Mobile with React Native<br />
-Back-end with Node.js<br />
-Typescript<br />
-TailwindCSS<br />
-Firebase<br />
-And a little more...
+🌱 **Atualmente estou aprendendo e expandindo minhas habilidades em**:
 
-### Meet me somewhere else
-<div>
-  <a href="mailto:francissv97@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/francissverissimo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+- **Boas práticas de desenvolvimento** e **Design de Software**
+- **Linguagem SQL**
+- **Back-End** com Node.js, Express
+
+## 💼 O que faço
+
+- **Desenvolvo aplicações web** com foco em experiência do usuário, principalmente no front-end.
+- **Crio APIs e sistemas** em back-end com Node.js e estou em um processo contínuo de aprimoramento nessa área.
+- **Trabalho em equipe ágil**, com foco em boas práticas de código e code review.
+
+📫 **Como me encontrar**:
+
+- [LinkedIn](https://www.linkedin.com/in/francissverissimo)
+- [Portfólio](https://francissportfolio.vercel.app/)
+- [E-mail](mailto:francissv97@gmail.com)
