@@ -1,14 +1,16 @@
 # Olá, sou o Francis Verissimo 👋
 
-### Desenvolvedor Full Stack | Foco em Front-End | 💙 TypeScript
+💻 **Desenvolvedor Fullstack JavaScript/TypeScript com foco em aplicações web modernas utilizando React e Node.js**
 
-🔧 **Tecnologias que uso no meu dia a dia**:
+---
 
-- **Front-End**: React, Tailwind CSS
-- **Back-End**: Node.js, Express
-- **Banco de Dados**: Firestore
-- **Ferramentas**: Git, Docker
-- **Outras**: TypeScript, GraphQL, JavaScript
+🔧 **Tecnologias do dia a dia**:
+
+- **Front-end**: React, Tailwind CSS, TypeScript, JavaScript
+- **Back-end**: Node.js, Express
+- **Banco de dados**: SQL, Firebase (Firestore)
+- **DevOps/Ferramentas**: Docker, Git
+- **Consumo de API's**: REST, GraphQL
 
 <div style="display:flex;gap:8px;margin-block: 16px">
   <img src=".github/react.svg" width="32" />
@@ -23,20 +25,28 @@
 
 ---
 
-🌱 **Atualmente estou aprendendo e expandindo minhas habilidades em**:
+🌱 **Atualmente estou me aprofundando em**:
 
-- **Boas práticas de desenvolvimento** e **Design de Software**
-- **Linguagem SQL**
-- **Back-End** com Node.js, Express
+- **Algoritmos, estruturas de dados e lógica de programação**, reforçando a base para desafios mais complexos.
+- **Conceitos avançados de Docker** e containers.
+- **Back-end com Node.js e Express**, com foco em escalabilidade e boas práticas.
 
-## 💼 O que faço
+---
 
-- **Desenvolvo aplicações web** com foco em experiência do usuário, principalmente no front-end.
-- **Crio APIs e sistemas** em back-end com Node.js e estou em um processo contínuo de aprimoramento nessa área.
-- **Trabalho em equipe ágil**, com foco em boas práticas de código e code review.
+💼 **O que faço**
 
-📫 **Como me encontrar**:
+- **Desenvolvo aplicações web com foco em experiência do usuário**, principalmente no front-end com React.
+- **Crio APIs REST** com Node.js, e sigo evoluindo minhas habilidades no back-end.
+- **Trabalho em times ágeis**, aplicando boas práticas, versionamento com Git e revisão de código.
 
-- [LinkedIn](https://www.linkedin.com/in/francissverissimo)
-- [Portfólio](https://francissportfolio.vercel.app/)
+---
+
+📫 **Vamos conversar?**
+
+- [LinkedIn](https://www.linkedin.com/in/francisverissimo)  
+- [Portfólio](https://francissportfolio.vercel.app/)  
 - [E-mail](mailto:francissv97@gmail.com)
+
+---
+
+🚀 Apaixonado por tecnologia, gosto de aprender constantemente e transformar ideias em soluções funcionais e elegantes.
